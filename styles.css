@@ -1,0 +1,43 @@
+body {
+  background-color: #c0c5ce;
+  font-family: "Source Sans Pro", sans-serif;
+}
+
+h1 {
+  padding-top: 10px;
+  padding-bottom: 10px;
+  margin-left: 5%;
+  margin-right: 5%;
+  text-align: center;
+  background-color: #a7adba;
+}
+#table {
+  padding: 5%;
+}
+
+table,
+th,
+td {
+  border: 1px solid black;
+  border-collapse: collapse;
+}
+
+table {
+  width: 100%;
+}
+
+th {
+  text-align: center;
+}
+
+button {
+  margin-bottom: 25px;
+  background-color: #65737e;
+  border: none;
+  color: white;
+  padding: 10px 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 18px;
+}
